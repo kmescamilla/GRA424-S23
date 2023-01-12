@@ -1,0 +1,27 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Questrial;
+}
+
+h1{
+    background-color: #0039D2;
+    color: #fff;
+    padding: 10PX 10PX;
+
+}
+
+p{
+    padding: 0 0% 2% 4%;
+}
+
+.list {
+    padding: 10px 0px 0px 0px;
+}
+
+.smile {
+    list-style-type: none;
+    padding-left: 1.5em;
+    background-image: url(/img/smileyface1.png);
+    background-size: 1rem;
+    background-repeat: no-repeat;
+}
