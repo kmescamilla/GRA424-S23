@@ -2,7 +2,7 @@
   display: flex;
   background: white;
   width: 100vw;
-  height: 100vw;
+  height: 100vh;
   margin: auto;
 }
 
@@ -11,7 +11,7 @@
   background: white;
   border: 0.25px solid #e2e2e2;
   width: 71.428571vw;
-  height: 71.428571vw;
+  height: 71.428571vh;
   margin: auto;
 }
 
@@ -19,7 +19,7 @@
   display: flex;
   background: white;
   width: 42.857143vw;
-  height: 42.857143vw;
+  height: 42.857143vh;
   margin: auto;
 }
 
