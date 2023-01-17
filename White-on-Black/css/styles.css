@@ -17,15 +17,14 @@
 
 .outside {
   display: flex;
-  background: white;
-  border: .25px solid #999999;
+  background: black;
   width: 42.857143vw;
   height: 42.857143vh;
   margin: auto;
 }
 
 .inside {
-  background: black;
+  background: white;
   width: 14.285714vw;
   height: 14.285714vh;
   margin: auto;
