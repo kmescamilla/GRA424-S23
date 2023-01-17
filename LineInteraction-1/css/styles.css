@@ -1,0 +1,51 @@
+.webpage {
+  display: flex;
+  background: white;
+  width: 100vw;
+  hieght: 100vw;
+  margin: auto;
+}
+
+.canvas {
+  display: flex;
+  background: white;
+  border: 0.25px solid #e2e2e2;
+  width: 71.428571vw;
+  height: 71.428571vw;
+  margin: auto;
+}
+
+.blacklines {
+  display: flex;
+  background: white;
+  border: 0.25px solid #e2e2e2;
+  width: 42.857143vw;
+  height: 42.857143vw;
+  margin: auto;
+}
+
+.line-left {
+  background: black;
+  display: flex;
+  height: 42.857143vh;
+  width: 1vw;
+  margin: auto;
+  margin-left: 0;
+}
+
+.line-right {
+  background: black;
+  display: flex;
+  height: 42.857143vh;
+  width: 1vw;
+  margin: auto;
+  margin-right: 0;
+}
+
+.line1 {
+  background: black;
+  display: flex;
+  height: 42.857143vh;
+  width: 1vw;
+  margin: auto;
+}
