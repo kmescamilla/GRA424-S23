@@ -18,7 +18,6 @@
 .blacklines {
   display: flex;
   background: white;
-  border: 0.25px solid #e2e2e2;
   width: 42.857143vw;
   height: 42.857143vw;
   margin: auto;
@@ -28,7 +27,7 @@
   background: black;
   display: flex;
   height: 42.857143vh;
-  width: 1vw;
+  width: 2vw;
   margin: auto;
   margin-left: 0;
 }
@@ -37,7 +36,7 @@
   background: black;
   display: flex;
   height: 42.857143vh;
-  width: 1vw;
+  width: 2vw;
   margin: auto;
   margin-right: 0;
 }
@@ -46,6 +45,6 @@
   background: black;
   display: flex;
   height: 42.857143vh;
-  width: 1vw;
+  width: 2vw;
   margin: auto;
 }
